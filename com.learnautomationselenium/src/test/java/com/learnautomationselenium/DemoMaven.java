@@ -9,11 +9,11 @@ public class DemoMaven {
 	public void Login(){
 		
 		System.out.println("Welcone to MAVEN ");
-		System.out.println(10/0);
+		System.out.println(10/2);
 		System.out.println("Welcone to java ");
 		
-		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://www.facebook.com/");
+		//ChromeDriver driver = new ChromeDriver();
+		//driver.get("https://www.facebook.com/");
 		
 	}
 
